@@ -14,5 +14,6 @@ public class Main {
         System.out.println("Ciao mondo");
         System.out.println("Questa volta ho buone sensazioni");
         System.out.println("Ho ancora buone sensazioni, nonostante tutto");
+        System.out.println("Dai ci credo ancora perché voglio essere ottimista!");
     }
 }
